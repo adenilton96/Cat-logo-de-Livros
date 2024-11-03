@@ -47,7 +47,7 @@ Este é um sistema de Catálogo de Livros desenvolvido em Laravel com um front-e
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/adenilton96/Catalogo-de-Livros.git
     cd nome-do-repositorio
     ```
 

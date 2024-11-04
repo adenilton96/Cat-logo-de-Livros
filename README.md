@@ -15,7 +15,7 @@ Este é um sistema de Catálogo de Livros desenvolvido em Laravel com um front-e
 ## Tecnologias Utilizadas
 - **Backend**: Laravel
 - **Frontend**: Bootstrap e Blade
-- **Banco de Dados**: MySQL (ou outro banco compatível)
+- **Banco de Dados**: PostigreSQL 
 - **ORM**: Eloquent
 
 ## Funcionalidades
@@ -31,7 +31,7 @@ Este é um sistema de Catálogo de Livros desenvolvido em Laravel com um front-e
 ## Pré-requisitos
 - PHP >= 8.0
 - Composer
-- PostigreSQL ou outro banco de dados compatível
+- PostigreSQL
 - Node.js e npm (para instalar dependências de front-end, caso necessário)
 
 ## Observação 
